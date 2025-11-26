@@ -5,3 +5,5 @@
   height="300"
 />
 </a>
+### 🏆 Solved.ac Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbg999123)](https://solved.ac/bbg999123)​
